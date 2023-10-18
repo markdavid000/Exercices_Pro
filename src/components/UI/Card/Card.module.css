@@ -1,0 +1,16 @@
+.card {
+  background: #e2e2e2;
+  border-radius: 10px;
+  animation: dropTop 0.3s linear;
+}
+
+@keyframes dropTop {
+  0% {
+    transform: translateY(-100%) scale(0);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0) scale(1);
+    opacity: 1;
+  }
+}

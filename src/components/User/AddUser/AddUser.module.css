@@ -1,0 +1,29 @@
+.input {
+  display: block;
+  max-width: 40rem;
+  padding: 1.5rem;
+  margin: 2rem auto;
+  font-size: 1.2rem;
+  border: 1px solid #ccc;
+  outline: none;
+  border-radius: 10px;
+  font-family: "IBM Plex Mono", monospace;
+}
+
+.input label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 0.3rem;
+}
+
+.input input {
+  display: block;
+  width: 100%;
+  padding: 0.15rem;
+  margin-bottom: 0.5rem;
+  font-size: 1.2rem;
+  border: 1px solid #ccc;
+  outline: none;
+  border-radius: 10px;
+  font-family: "IBM Plex Mono", monospace;
+}

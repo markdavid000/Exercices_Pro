@@ -1,0 +1,11 @@
+.userItem {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.btn_del {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
